@@ -1,0 +1,26 @@
+#app {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+}
+h1 {
+  margin-bottom: 50px;
+  text-align: center;
+}
+#tips {
+  list-style-type: none;
+}
+
+#tips li {
+  padding: 5px;
+  font-size: 20px;
+  font-style: italic;
+}
+#controls {
+  text-align: center;
+}
+button {
+  margin-top: 10px;
+}
