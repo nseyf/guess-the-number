@@ -15,6 +15,12 @@ h1 {
   color: white;
   font-size: 50px;
 }
+span {
+  animation: blink 1s infinite;
+}
+@keyframes blink {
+  to{opacity: .0;}
+}
 #tips {
   list-style-type: none;
 }
