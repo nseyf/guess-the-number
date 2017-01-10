@@ -36,3 +36,9 @@ button {
   font-family: "Kumar One";
   padding-top: 10px;
 }
+input {
+  background: none;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
